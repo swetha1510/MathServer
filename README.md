@@ -145,10 +145,12 @@ urlpatterns = [
 ]
 ```
 ## SERVER SIDE PROCESSING:
-![Screenshot 2023-11-14 211238](https://github.com/swetha1510/MathServer/assets/120623583/f624bf76-ec1d-4380-8c18-7293db87f30d)
+![Screenshot 2023-11-14 212130](https://github.com/swetha1510/MathServer/assets/120623583/332f54a5-351d-4c97-a3bc-04ce04765440)
+
 
 ## HOMEPAGE:
-![Screenshot 2023-11-14 212130](https://github.com/swetha1510/MathServer/assets/120623583/5207cf19-ae23-4d5b-a529-2446ac7d56ef)
+![Screenshot 2023-11-14 211238](https://github.com/swetha1510/MathServer/assets/120623583/5f673d27-cb3a-430e-bb7d-57920abaad63)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
