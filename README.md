@@ -144,9 +144,11 @@ urlpatterns = [
     path('',views.rectarea,name="areaofrectangleroot")
 ]
 ```
-## OUTPUT:
+## SERVER SIDE PROCESSING:
 ![Screenshot 2023-11-14 211238](https://github.com/swetha1510/MathServer/assets/120623583/f624bf76-ec1d-4380-8c18-7293db87f30d)
 
+## HOMEPAGE:
+![Screenshot 2023-11-14 212130](https://github.com/swetha1510/MathServer/assets/120623583/5207cf19-ae23-4d5b-a529-2446ac7d56ef)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
